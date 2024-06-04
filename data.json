@@ -1,0 +1,233 @@
+[
+    {
+      "YEAR": "II",
+      "SEMESTER": "I",
+      "NAME": "Mrs.K.Manasa",
+      "SECTION": "Group - 1",
+      "CONTACTNO": "9059794747"
+    },
+    {
+      "YEAR": "II",
+      "SEMESTER": "I",
+      "NAME": "Dr. M. Santhosh Kumar",
+      "SECTION": "Group - 2",
+      "CONTACTNO": "9701723629"
+    },
+    {
+      "YEAR": "II",
+      "SEMESTER": "I",
+      "NAME": "Mr.D.Trinadha Rao",
+      "SECTION": "Group - 3",
+      "CONTACTNO": "9866743443"
+    },
+    {
+      "YEAR": "II",
+      "SEMESTER": "I",
+      "NAME": "Mr. D.Srikanth",
+      "SECTION": "Group - 4",
+      "CONTACTNO": "9505302498"
+    },
+    {
+      "YEAR": "II",
+      "SEMESTER": "I",
+      "NAME": "Mr. Vamshi Krishna",
+      "SECTION": "Group - 5",
+      "CONTACTNO": "9052842818"
+    },
+    {
+      "YEAR": "II",
+      "SEMESTER": "I",
+      "NAME": "Mrs. S Sagharika",
+      "SECTION": "Group - 6",
+      "CONTACTNO": "7989859459"
+    },
+    {
+      "YEAR": "II",
+      "SEMESTER": "I",
+      "NAME": "Dr. G. Jose Moses",
+      "SECTION": "Group - 7",
+      "CONTACTNO": "9701329977"
+    },
+    {
+      "YEAR": "II",
+      "SEMESTER": "I",
+      "NAME": "Dr.B.Jogeswara Rao",
+      "SECTION": "Group - 8",
+      "CONTACTNO": "9550009538"
+    },
+    {
+      "YEAR": "II",
+      "SEMESTER": "II",
+      "NAME": "Mrs.P.Shyamala",
+      "SECTION": "ALPHA",
+      "CONTACTNO": "9894965756"
+    },
+    {
+      "YEAR": "II",
+      "SEMESTER": "II",
+      "NAME": "Mrs.Sowmya Saraf",
+      "SECTION": "BETA",
+      "CONTACTNO": "9701260289"
+    },
+    {
+      "YEAR": "II",
+      "SEMESTER": "II",
+      "NAME": "Mrs.S.Monika",
+      "SECTION": "GEMMA",
+      "CONTACTNO": "9566841184"
+    },
+    {
+      "YEAR": "II",
+      "SEMESTER": "II",
+      "NAME": "r.M.Santhosh Kumar",
+      "SECTION": "DELTA",
+      "CONTACTNO": "9701723629"
+    },
+    {
+      "YEAR": "II",
+      "SEMESTER": "II",
+      "NAME": "Mrs.P.Sabitha",
+      "SECTION": "SIGMA",
+      "CONTACTNO": "8008463700"
+    },
+    {
+      "YEAR": "II",
+      "SEMESTER": "II",
+      "NAME": "Mr.G.Raju",
+      "SECTION": "OMEGA",
+      "CONTACTNO": "9640051898"
+    },
+    {
+      "YEAR": "II",
+      "SEMESTER": "II",
+      "NAME": "Mrs.D.Suneetha",
+      "SECTION": "ZETA",
+      "CONTACTNO": "7702976749"
+    },
+    {
+      "YEAR": "II",
+      "SEMESTER": "II",
+      "NAME": "Mr.Naveena Kumar",
+      "SECTION": "EPSILON",
+      "CONTACTNO": "9951414245"
+    },
+    {
+      "YEAR": "III",
+      "SEMESTER": "I",
+      "NAME": "Mrs.P.Sabitha",
+      "SECTION": "ALPHA",
+      "CONTACTNO": "8008463700"
+    },
+    {
+      "YEAR": "III",
+      "SEMESTER": "I",
+      "NAME": "Mr.K.Sreekanth",
+      "SECTION": "BETA",
+      "CONTACTNO": "8500533524"
+    },
+    {
+      "YEAR": "III",
+      "SEMESTER": "I",
+      "NAME": "Mrs.P.Shyamala",
+      "SECTION": "GEMMA",
+      "CONTACTNO": "9894965756"
+    },
+    {
+      "YEAR": "III",
+      "SEMESTER": "I",
+      "NAME": "Mrs.M.Mounika",
+      "SECTION": "DELTA",
+      "CONTACTNO": "9908601526"
+    },
+    {
+      "YEAR": "III",
+      "SEMESTER": "I",
+      "NAME": "Mrs.S.Sowmya",
+      "SECTION": "SIGMA",
+      "CONTACTNO": "9701260289"
+    },
+    {
+      "YEAR": "III",
+      "SEMESTER": "I",
+      "NAME": "Mrs.Shilpa",
+      "SECTION": "Omega",
+      "CONTACTNO": "9618319539"
+    },
+    {
+      "YEAR": "III",
+      "SEMESTER": "I",
+      "NAME": "Mrs. B.Tejaswi",
+      "SECTION": "Zeta",
+      "CONTACTNO": "9059651369"
+    },
+    {
+      "YEAR": "III",
+      "SEMESTER": "I",
+      "NAME": "Dr.M.Gowtham",
+      "SECTION": "Epsilon",
+      "CONTACTNO": "9951444611"
+    },
+    {
+      "YEAR": "III",
+      "SEMESTER": "II",
+      "NAME": "Dr.K.Siva Krishna ",
+      "SECTION": "ALPHA",
+      "CONTACTNO": "9966045723"
+    },
+    {
+      "YEAR": "III",
+      "SEMESTER": "II",
+      "NAME": "M.Krishna Kishore",
+      "SECTION": "BETA",
+      "CONTACTNO": "9848637090"
+    },
+    {
+      "YEAR": "III",
+      "SEMESTER": "II",
+      "NAME": "Mrs.D.Sreevidya",
+      "SECTION": "GEMMA",
+      "CONTACTNO": "8555874576"
+    },
+    {
+      "YEAR": "III",
+      "SEMESTER": "II",
+      "NAME": "Dr.P.RamBabu",
+      "SECTION": "DELTA",
+      "CONTACTNO": "9652665840"
+    },
+    {
+      "YEAR": "III",
+      "SEMESTER": "II",
+      "NAME": "Mrs.B.Tejaswi",
+      "SECTION": "SIGMA",
+      "CONTACTNO": "9059651369"
+    },
+    {
+      "YEAR": "IV",
+      "SEMESTER": "I",
+      "NAME": "Mr. Srajan Kumar",
+      "SECTION": "ALPHA",
+      "CONTACTNO": "9032150341"
+    },
+    {
+      "YEAR": "IV",
+      "SEMESTER": "I",
+      "NAME": "Mr.N.V.Krishna Rao",
+      "SECTION": "BETA",
+      "CONTACTNO": "9985821437"
+    },
+    {
+      "YEAR": "IV",
+      "SEMESTER": "I",
+      "NAME": "Mr. B. Hari",
+      "SECTION": "GEMMA",
+      "CONTACTNO": "8106229367"
+    },
+    {
+      "YEAR": "IV",
+      "SEMESTER": "I",
+      "NAME": "Mrs.Gandu Lavanya",
+      "SECTION": "DELTA",
+      "CONTACTNO": "8309302451"
+    }      
+  ]
